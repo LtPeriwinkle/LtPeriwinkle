@@ -1,5 +1,5 @@
 ### hello
-i'm moving all of my active development to codeberg, at [codeberg.org/LieutenantPeriwinkle](https://codeberg.org/LieutenantPeriwinkle). i will keep all existing projects on this account, and likely continue to use it to contribute to other github-hosted projects. 
+i'm moving all of my active development to codeberg, at [codeberg.org/periwinkle](https://codeberg.org/periwinkle). i will keep all existing projects on this account, and likely continue to use it to contribute to other github-hosted projects. 
 
 see why i decided to make the hop at [GiveUpGithub.org](https://giveupgithub.org).
 <!--
